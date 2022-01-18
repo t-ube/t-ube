@@ -1,10 +1,26 @@
-<p align="center">
+<p align="left">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-ube&theme=vue&show_icons=ture" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ube&layout=compact&show_icons=true&theme=vue" />
 </p>
-<p align="center">
+<p align="left">
 <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=t-ube" />
 </p>
 
 #### Languages & Tools
-![svg](https://github.com/devicons/devicon/tree/master/icons/azure/azure-original.svg)
+<p align="left">
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+</p>
+
