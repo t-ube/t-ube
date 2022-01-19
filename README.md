@@ -22,8 +22,21 @@
 
 #### Personal Products
 <p>
-  <a href="https://okinawa-covid19map.netlify.app/">
-    <img alt="github stats" height="80px" src="https://raw.githubusercontent.com/t-ube/okinawa-covid19-map/master/public/ogp.jpg?token=GHSAT0AAAAAABP6W77ZFA7K76327G3AA4X4YPHLCDQ" />
-  </a>
+  <div style="border: 1px solid #CCC;">
+    <table><tbody>
+      <tr>
+        <td>
+          <a href="https://okinawa-covid19map.netlify.app/">
+          <img alt="github stats" height="80px" src="https://okinawa-covid19map.netlify.app/ogp.jpg" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          since 2020.08 ~
+        </td>
+      </tr>
+    </tbody></table>
+  </div>
 </p>
 
