@@ -8,7 +8,7 @@
 
 #### Languages & Tools
 <p align="left">
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
+  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg style="pointer-events: none;  cursor: default;" />
   <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
   <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
