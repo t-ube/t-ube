@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td align="center">
-        since 2020.08 ~
+        since 2020.08 ~　
       </td>
     </tr>
   </tbody></table>
