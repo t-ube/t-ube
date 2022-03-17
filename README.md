@@ -20,7 +20,6 @@
   <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
 </p>
 
-
 #### Personal Products
 <p>
   <table><tbody>
