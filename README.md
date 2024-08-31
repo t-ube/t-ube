@@ -50,7 +50,7 @@
         <br />
         since 2024.05 ~ 
         <br />
-      　<b>🏆 Finalist at WaveHack Global</b>
+      　<b>🏆 Finalist at <a href="https://app.akindo.io/wave-hacks/La4g30jWrSx3DjLx?tab=overview">WaveHack Global</a></b>
       </td>
       <td align="center">
         Okinawa COVID-19 Map
