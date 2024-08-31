@@ -20,6 +20,7 @@
   <img alt="php" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
   <img alt="azure" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
   <img alt="adobe illustrator" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
+  <img alt="blockly" height="30px" src="https://developers.google.com/static/blockly/images/logos/logo_only.svg" />
   <img alt="godot4" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
 </p>
 
