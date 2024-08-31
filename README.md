@@ -9,18 +9,18 @@
 
 ### Languages & Tools
 <p align="left">
-  <img alt="github stats" height="26px" src="https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=033" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
-  <img alt="github stats" height="30px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
-  <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
+  <img alt="xrpl" height="26px" src="https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=033" />
+  <img alt="nextjs" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img alt="python" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
+  <img alt="supabase" height="30px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
+  <img alt="postgresql" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+  <img alt="react" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="graphql" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+  <img alt="cplusplus" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="php" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+  <img alt="azure" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img alt="adobe illustrator" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
+  <img alt="godot4" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
 </p>
 
 
