@@ -9,6 +9,7 @@
 
 ### Languages & Tools
 <p align="left">
+  <img alt="github stats" height="26px" src="https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=033" />
   <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
   <img alt="github stats" height="30px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
   <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
