@@ -7,7 +7,7 @@
 </p>
 
 
-#### Languages & Tools
+### Languages & Tools
 <p align="left">
   <img alt="github stats" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
   <img alt="github stats" height="30px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
@@ -23,19 +23,37 @@
 </p>
 
 
-#### Personal Products
+### Personal Products
 <p>
   <table><tbody>
     <tr>
       <td>
+        <a href="https://nullpay.shirome.net/">
+          <div align="center">
+            <img alt="github stats" height="80px" src="https://nullpay.shirome.net/_next/image?url=%2Fnullpay-256.png&w=32&q=75" alt="null pay"/>
+          </div>
+        </a>
+      </td>
+      <td>
         <a href="https://okinawa-covid19map.netlify.app/">
-        <img alt="github stats" height="80px" src="https://okinawa-covid19map.netlify.app/ogp.jpg" />
+          <div align="center">
+            <img alt="github stats" height="80px" src="https://okinawa-covid19map.netlify.app/ogp.jpg" alt="Okinawa COVID-19 Map"/>
+          </div>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        since 2020.08 ~　
+        null pay
+        <br />
+        since 2024.05 ~ 
+        <br />
+      　<b>🏆 Finalist at WaveHack Global</b>
+      </td>
+      <td align="center">
+        Okinawa COVID-19 Map
+        <br />
+        2020.08 ~ 2022.11
       </td>
     </tr>
   </tbody></table>
