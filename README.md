@@ -1,26 +1,3 @@
-<p align="left">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-ube&theme=cobalt&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ube&layout=compact&show_icons=true&theme=vue" />
-</p>
-
-
-### Languages & Tools
-<p align="left">
-  <img alt="xrpl" style="height:26px;" src="https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=033" />
-  <img alt="nextjs" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img alt="python" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
-  <img alt="supabase" style="height:30px;" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
-  <img alt="postgresql" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
-  <img alt="react" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="graphql" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
-  <img alt="cplusplus" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="php" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-  <img alt="azure" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
-  <img alt="adobe illustrator" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
-  <img alt="blockly" style="height:30px;" src="https://developers.google.com/static/blockly/images/logos/logo_only.svg" />
-  <img alt="godot4" style="height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
-</p>
-
 
 ### Personal Products
 <p>
@@ -57,4 +34,22 @@
     </tr>
   </tbody></table>
 </p>
+
+### Languages & Tools
+<p align="left">
+  <img alt="xrpl" style="height:26px;" src="https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=033" />
+  <img alt="nextjs" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img alt="python" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
+  <img alt="supabase" style="height:30px;" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
+  <img alt="postgresql" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+  <img alt="react" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="graphql" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+  <img alt="cplusplus" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="php" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+  <img alt="azure" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img alt="adobe illustrator" style="height:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
+  <img alt="blockly" style="height:30px;" src="https://developers.google.com/static/blockly/images/logos/logo_only.svg" />
+  <img alt="godot4" style="height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
+</p>
+
 
